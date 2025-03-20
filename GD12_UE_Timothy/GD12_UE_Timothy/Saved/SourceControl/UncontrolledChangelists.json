@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/SHVFS_Admin/Desktop/GD12_UE_Timothy/GD12_UE_Timothy/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3G/X79L9HZ9K05SAJ4C9OIR2M.uasset",
+				"C:/Users/SHVFS_Admin/Desktop/GD12_UE_Timothy/GD12_UE_Timothy/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/SHVFS_Admin/Desktop/GD12_UE_Timothy/GD12_UE_Timothy/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/SHVFS_Admin/Desktop/GD12_UE_Timothy/GD12_UE_Timothy/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/IK/B18KZU4YR4QAEMCRVC4PCD.uasset"
+			]
+		}
+	]
+}
